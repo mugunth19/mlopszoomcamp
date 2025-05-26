@@ -1,0 +1,15 @@
+artifact_uri: file:///local/repo/mlops-zoomcamp/cohorts/2025/02-experiment-tracking/homework/mlruns/0/1f6349024a934bb18c208124bbdcd55e/artifacts
+end_time: 1747819592861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f6349024a934bb18c208124bbdcd55e
+run_name: debonair-snail-135
+run_uuid: 1f6349024a934bb18c208124bbdcd55e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747819564895
+status: 3
+tags: []
+user_id: erxxmug

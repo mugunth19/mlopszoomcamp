@@ -1,0 +1,15 @@
+artifact_uri: file:///local/repo/mlops-zoomcamp/cohorts/2025/02-experiment-tracking/homework/mlruns/0/237e15c67db64a52a64073268a120294/artifacts
+end_time: 1747829061918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 237e15c67db64a52a64073268a120294
+run_name: wistful-vole-277
+run_uuid: 237e15c67db64a52a64073268a120294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747829037794
+status: 3
+tags: []
+user_id: erxxmug

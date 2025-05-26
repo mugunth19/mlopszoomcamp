@@ -1,0 +1,15 @@
+artifact_uri: file:///local/repo/mlops-zoomcamp/cohorts/2025/02-experiment-tracking/homework/mlruns/0/5d05e13e536c4417a73c8948d02b568b/artifacts
+end_time: 1747819595610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d05e13e536c4417a73c8948d02b568b
+run_name: rogue-lamb-90
+run_uuid: 5d05e13e536c4417a73c8948d02b568b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747819595602
+status: 3
+tags: []
+user_id: erxxmug

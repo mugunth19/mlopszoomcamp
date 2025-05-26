@@ -1,0 +1,15 @@
+artifact_uri: file:///local/repo/mlops-zoomcamp/cohorts/2025/02-experiment-tracking/homework/mlruns/0/191572b5303e4196a1f66c564cea3214/artifacts
+end_time: 1747819245021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 191572b5303e4196a1f66c564cea3214
+run_name: painted-wolf-946
+run_uuid: 191572b5303e4196a1f66c564cea3214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747819245013
+status: 3
+tags: []
+user_id: erxxmug

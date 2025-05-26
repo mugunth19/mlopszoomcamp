@@ -1,0 +1,15 @@
+artifact_uri: file:///local/repo/mlops-zoomcamp/cohorts/2025/02-experiment-tracking/homework/mlruns/0/09ccc88feddb4a349da14962877c21a1/artifacts
+end_time: 1747828965829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09ccc88feddb4a349da14962877c21a1
+run_name: youthful-wolf-936
+run_uuid: 09ccc88feddb4a349da14962877c21a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747828965820
+status: 3
+tags: []
+user_id: erxxmug

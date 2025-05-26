@@ -1,0 +1,15 @@
+artifact_uri: file:///local/repo/mlops-zoomcamp/cohorts/2025/02-experiment-tracking/homework/mlruns/0/698997880efe4a7081a7039f1cbab089/artifacts
+end_time: 1747828112198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 698997880efe4a7081a7039f1cbab089
+run_name: capricious-stork-308
+run_uuid: 698997880efe4a7081a7039f1cbab089
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747828112189
+status: 3
+tags: []
+user_id: erxxmug
